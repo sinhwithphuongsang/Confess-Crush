@@ -1,18 +1,15 @@
 const CONFIG = {
     titleWeb: "Tôi là trợ lý ảo của Sinh Hà",
-    introTitle: 'Hello Minh Phương',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Hello em bíe Minh Phương',
+    introDesc: `Anh thấy em xinh với cả đáng iu í thì bé có thể cho anh làm quen với bé được khum?`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
+    title: 'Anh yêu em lắm rùi í!',
+    desc: 'Em có thấy anh đáng iu khum và em có yêu anh khum?',
+    btnYes: 'Yêu và cưới lun í chứ honey <3',
+    btnNo: 'có cc t nha -.-',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Tại tớ thấy cậu cao to í nên cậu chính là bờ vai vững chắc cho tớ dựa',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
